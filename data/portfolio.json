@@ -1,11 +1,11 @@
 {
   "name": "Karelle",
   "headerTaglineOne": "Hello 👋",
-  "headerTaglineTwo": "I'm Karelle Table",
+  "headerTaglineTwo": "Je suis Karelle Table",
   "headerTaglineThree": "Développeuse Web Full Stack",
   "headerTaglineFour": "basée à Toulouse, France.",
   "showCursor": true,
-  "showBlog": true,
+  "showBlog": false,
   "darkMode": true,
   "showResume": true,
   "socials": [
